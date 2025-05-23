@@ -1,0 +1,40 @@
+📊 Cash Flow Dashboard UI – `hellobooks`
+
+A modern, responsive, and minimal **Cash Flow Dashboard** UI concept designed for the **hellobooks** platform. This design helps users analyze financial data including cash inflow, cash outflow, and net cash flow using clean visualizations and intuitive UI elements.
+
+
+
+ 🧩 Features
+
+🧮 **Summary Cards**:
+📈 **Cash Flow Analysis Graph** (line chart comparing inflow vs outflow)
+
+Total Cash In (blue with up-arrow)
+Total Cash Out (green with down-arrow)
+Net Cash Flow (icon with light blue background)
+🔍 **Date Range Selector** for filtering data
+🧭 **Sidebar Navigation** with expandable menus (Dashboard, Sales, Purchase, Reports, etc.)
+👤 **User Profile Access**
+🧘 Clean layout with shadowed cards and soft backgrounds
+🎨 Accessible, color-coded indicators
+
+🎨 Color Palette
+
+Cash In:** `#3366CC` (blue)
+Cash Out:** `#4BB543` (green)
+Alert/Negative Indicator:** `#FF3B30` (red)
+Neutral Light Backgrounds:** Soft gray or 50% opacity tints
+
+📐 Tools Used
+
+**Figma** – UI design & prototyping
+**GitHub** – Version control & collaboration
+
+🛠️ Ideal For
+
+SaaS products
+Accounting or bookkeeping platforms
+Business dashboards and analytics tools
+
+
+
